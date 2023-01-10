@@ -17,11 +17,11 @@ Open Your browser put inside browser “http://localhost/srms”
 Details of student  --
 
 
-Student name-- Anuj Kumar 
+Student name-- Aaa
 
 
 Roll id--10861
-Student Class: Fourth(C)
+Student Class: Fourth(A)
 
 For Admin Panel
 
