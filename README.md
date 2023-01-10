@@ -1,13 +1,13 @@
-******Project Name: student Result Management System******
+# Student Result Management System(SRMS)
 
---->*How to run this Project:*
+* *How to run this Project:*
 1. Download and Unzip file on your local system copy srms folder.
 2. Put srms folder inside root directory
 
 
 
 
---->*Database Configuration:*
+* *Database Configuration:*
 
 1.Open phpmyadmin.
 
@@ -18,14 +18,14 @@
 
 
 
---->*For User:*
+* *For User:*
 
 Open Your browser put inside browser “http://localhost/srms”
 
 
 
 
---->*Details of student:*
+* *Details of student:*
 
 Student name-- Aaa
 
@@ -37,7 +37,7 @@ Student Class: Fourth(A)
 
 
 
---->*For Admin Panel:*
+* *For Admin Panel:*
 
 Open Your browser put inside browser “http://localhost/srms”
 
