@@ -1,5 +1,5 @@
 # Student Result Management System(SRMS)
-
+ 
 * *How to run this Project:*
 1. Download and Unzip file on your local system copy srms folder.
 2. Put srms folder inside root directory
